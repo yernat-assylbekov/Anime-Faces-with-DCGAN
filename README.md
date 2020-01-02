@@ -8,7 +8,9 @@ The dataset was downloaded from https://www.kaggle.com/soumikrakshit/anime-faces
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/images_from_train_set.png?raw=true)
 
-I use a slightly modified DCGAN (Deep Convolutional GAN). The architectures for the generator and the discriminator are as follows:
+I use a slightly modified DCGAN (Deep Convolutional GAN). The architectures for the generator and the discriminator are as shown below.
 
+The generator:
+![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/generator_diagram.png?raw=true)
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/anime_faces_generated.gif?raw=true)
