@@ -28,6 +28,13 @@ The precise architectures for the generator and the discriminator are as shown b
 
 ## Training Details
 
+I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in [1].
+
 ## Results
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/anime_faces_generated.gif?raw=true)
+
+
+## References
+
+[1] I.J. Goodfellow et al., <b>Generative Adversarial Nets</b>, NIPS Proceedings 2014.
