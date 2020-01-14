@@ -28,12 +28,15 @@ The precise architectures for the generator and the discriminator are as shown b
 
 ## Training Details
 
-I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in the GAN paper <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a> by Goodfellow et al. We use the Adam optimizer with `learning_rate = 0.0001` and `beta_1 = 0.5`.
+I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in the GAN paper <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a> by Goodfellow et al. We use the Adam optimizer with `learning_rate = 0.0001` and `beta_1 = 0.5`. I trained the model with an NVIDIA K80 GPU.
 
 ## Results
 
+After training for 500 epochs, I was satisfied with the results. Below is the full training as a GIF with images sampled every 10 epochs.
+
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/anime_faces_generated.gif?raw=true)
 
+I expect that the results will be improved if one trains longer.
 
 ## References
 
