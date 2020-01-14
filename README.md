@@ -22,6 +22,8 @@ The discriminator:
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/discriminator_diagram.png?raw=true)
 
+One remark about the model is that in the ouput layer of the generator I used sigmoid activation instead of traditional tanh.
+
 ## Training Details
 
 ## Results
