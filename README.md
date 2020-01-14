@@ -13,16 +13,11 @@ The dataset was downloaded from https://www.kaggle.com/soumikrakshit/anime-faces
 ## Network Architecture
 
 I use a slightly modified DCGAN (Deep Convolutional GAN) and follow the guidlines listed below:<br>
-• Replace all max pooling with convolutional strides.
-
-• Use transposed convolution for upsampling
-
-• Use batchnorm in both the generator and the discriminator.
-
-• Use ReLU activation in the generator for all layers except for the output layer.
-
-• Use LeakyReLU activation in the discriminator for all layers except for the flattening layer and the output layer.
-
+• Replace all max pooling with convolutional strides.<br>
+• Use transposed convolution for upsampling.<br>
+• Use batchnorm in both the generator and the discriminator.<br>
+• Use ReLU activation in the generator for all layers except for the output layer.<br>
+• Use LeakyReLU activation in the discriminator for all layers except for the flattening layer and the output layer.<br>
 • The output layers of both the generator and the discriminator use sigmoid activation.
 
 The architectures for the generator and the discriminator are as shown below.
