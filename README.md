@@ -36,8 +36,16 @@ After training for 500 epochs, I was satisfied with the results. Below is the fu
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/anime_faces_generated.gif?raw=true)
 
+Images generated after 500 epochs look as follows:
+
+![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/image_at_epoch_0500.png?raw=true)
+
 I expect that the results will be improved if one trains longer.
 
 ## References
 
 <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a> I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville and Y. Bengio, <i>Generative Adversarial Nets</i>, NIPS Proceedings (2014).
+
+<a href="https://arxiv.org/pdf/1511.06434.pdf">[2]</a> A. Radford, L. Metz, S. Chintala, <i>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</i>, ICLR (2016).
+
+<a href="https://www.tensorflow.org/tutorials/generative/dcgan">[3]</a> <i>Deep Convolutional Generative Adversarial Network</i>, TensorFlow Tutorials.
