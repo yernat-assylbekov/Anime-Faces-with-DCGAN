@@ -12,8 +12,7 @@ The dataset was downloaded from https://www.kaggle.com/soumikrakshit/anime-faces
 
 ## Network Architecture
 
-I use a slightly modified DCGAN (Deep Convolutional GAN) and follow the guidlines listed below:
-
+I use a slightly modified DCGAN (Deep Convolutional GAN) and follow the guidlines listed below:<br>
 • Replace all max pooling with convolutional strides.
 
 • Use transposed convolution for upsampling
