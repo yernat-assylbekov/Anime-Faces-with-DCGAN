@@ -20,9 +20,8 @@ I use a slightly modified DCGAN (Deep Convolutional GAN) and follow the guidline
 • Use LeakyReLU activation in the discriminator for all layers except for the flattening layer and the output layer.<br>
 • The output layers of both the generator and the discriminator use sigmoid activation.
 
-The architectures for the generator and the discriminator are as shown below.
-
-The generator:
+The precise architectures for the generator and the discriminator are as shown below.<br>
+<p>The generator:
 
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/generator_diagram.png?raw=true)
 
