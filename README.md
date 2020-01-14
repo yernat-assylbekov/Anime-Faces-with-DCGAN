@@ -28,7 +28,7 @@ The precise architectures for the generator and the discriminator are as shown b
 
 ## Training Details
 
-I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in [1].
+I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a>.
 
 ## Results
 
@@ -37,4 +37,4 @@ I used the same loss functions for the generator and the discriminator as in the
 
 ## References
 
-<b>[1]</b> I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville and Y. Bengio, <i>Generative Adversarial Nets</i>, NIPS Proceedings (2014).
+<a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a> I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville and Y. Bengio, <i>Generative Adversarial Nets</i>, NIPS Proceedings (2014).
