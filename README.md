@@ -37,4 +37,4 @@ I used the same loss functions for the generator and the discriminator as in the
 
 ## References
 
-[1] Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville and Yoshua Bengio, <b>Generative Adversarial Nets</b>, <i>NIPS Proceedings</i> (2014).
+<b>[1]</b> I.J. Goodfellow, J. Pouget-Abadie, M. Mirza, B. Xu, D. Warde-Farley, S. Ozair, A. Courville and Y. Bengio, <i>Generative Adversarial Nets</i>, NIPS Proceedings (2014).
