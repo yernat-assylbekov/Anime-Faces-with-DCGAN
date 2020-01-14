@@ -28,7 +28,7 @@ The precise architectures for the generator and the discriminator are as shown b
 
 ## Training Details
 
-I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a>.
+I used the same loss functions for the generator and the discriminator as in the last paragraph of Section 3 in the GAN paper <a href="https://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf">[1]</a> by Goodfellow et al. We use the Adam optimizer with `learning_rate = 0.0001` and `beta_1 = 0.5`.
 
 ## Results
 
