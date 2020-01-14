@@ -21,12 +21,9 @@ I use a slightly modified DCGAN (Deep Convolutional GAN) and follow the guidline
 • The output layers of both the generator and the discriminator use sigmoid activation.
 
 The precise architectures for the generator and the discriminator are as shown below.<br>
-<p>The generator:
-
-![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/generator_diagram.png?raw=true)
-
-The discriminator:
-
+The generator:<br>
+![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/generator_diagram.png?raw=true)<br>
+The discriminator:<br>
 ![alt text](https://github.com/yernat-assylbekov/Anime-Faces-with-DCGAN/blob/master/images/discriminator_diagram.png?raw=true)
 
 ## Training Details
