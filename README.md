@@ -1,4 +1,4 @@
-# Anime-Faces-with-DCGAN
+# Anime Faces with DCGAN
 
 In this repository we generate Anime Face images with Generative Adversarial Network (GAN). This is my first experience with GAN.
 
